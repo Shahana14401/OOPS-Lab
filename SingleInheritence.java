@@ -41,7 +41,7 @@ class Teacher extends Employee
   System.out.println("...................");
  }
 }
-class MultilevelInheritence
+class SingleInheritence
 {
  public static void main(String args[])
  {
